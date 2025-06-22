@@ -1,5 +1,7 @@
 # Interactive Hand-Tracking Demo with Three.js and MediaPipe
 
+![Hand Tracking Demo](./public/hand-tracking-demo.gif)
+
 This project is a web-based demonstration of real-time hand tracking used to manipulate a 3D object. It leverages the power of Google's MediaPipe for computer vision and Three.js for 3D rendering directly in the browser.
 
 The application uses the device's webcam to detect a user's hand. The position and shape of a 3D cube are controlled by the hand's movements:
